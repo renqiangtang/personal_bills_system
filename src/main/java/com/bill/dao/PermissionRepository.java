@@ -1,7 +1,6 @@
 package com.bill.dao;
 
-import com.bill.entity.Permission;
-import com.bill.entity.Role;
+import com.bill.entity.user.Permission;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

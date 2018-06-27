@@ -1,7 +1,7 @@
 package com.bill.dao;
 
 import com.bill.PersonalBillsSystemApplication;
-import com.bill.entity.User;
+import com.bill.entity.user.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

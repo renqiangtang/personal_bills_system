@@ -1,4 +1,4 @@
-package com.bill.entity;
+package com.bill.entity.user;
 
 import org.hibernate.validator.constraints.Length;
 

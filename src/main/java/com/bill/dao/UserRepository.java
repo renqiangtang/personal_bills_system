@@ -1,6 +1,6 @@
 package com.bill.dao;
 
-import com.bill.entity.User;
+import com.bill.entity.user.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
