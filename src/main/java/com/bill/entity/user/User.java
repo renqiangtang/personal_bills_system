@@ -10,6 +10,11 @@ import javax.validation.constraints.NotNull;
 import java.util.Date;
 
 
+/**
+ * 用户实体类
+ * Created by sky on 2018/7/9.
+ */
+
 @Entity
 public class User {
     @Id
@@ -24,6 +29,7 @@ public class User {
     @NotNull
     @Length(min = 1,max = 36)
     private  String slat;
+
     private Date createTime;
 
     private  Date modifyTime;

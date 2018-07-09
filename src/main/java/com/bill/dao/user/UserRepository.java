@@ -1,4 +1,4 @@
-package com.bill.dao;
+package com.bill.dao.user;
 
 import com.bill.entity.user.User;
 import org.springframework.data.repository.CrudRepository;

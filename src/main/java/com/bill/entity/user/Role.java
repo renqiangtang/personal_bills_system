@@ -5,7 +5,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import java.util.Date;
-
+/**
+ * 角色实体类
+ * Created by sky on 2018/7/9.
+ */
 @Entity
 public class Role {
     @Id

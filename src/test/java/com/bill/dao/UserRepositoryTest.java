@@ -1,6 +1,7 @@
 package com.bill.dao;
 
 import com.bill.PersonalBillsSystemApplication;
+import com.bill.dao.user.UserRepository;
 import com.bill.entity.user.User;
 import org.junit.Test;
 import org.junit.runner.RunWith;
